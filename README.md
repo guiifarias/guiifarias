@@ -2,10 +2,10 @@
 - 🧑 Tenho 22 anos de idade
 - 😄 Pronomes: ele/dele
 - 🌎 São Paulo - SP, Brasil
-- 🔎 Atualmento estou a procura da primeira oportunidade de trabalho na area da tecnologia
 - 🎓 (UNI PAULISTA)  Tenho Analise e Desenvolvimento de Sistema 
 - 🎓 Certicado em LGPD (CertiProf)
 - 🏫 (Instituto PROA) Devesenvolvimento Web Java
+- 🖥️ Trabalhando na Confitec.
 
 <div align="center">
     <a href="https://github.com/guiifarias">
